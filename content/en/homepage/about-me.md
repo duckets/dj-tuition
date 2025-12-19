@@ -1,21 +1,26 @@
 ---
 title: "About Me"
-weight: 4
+weight: 3
 header_menu: true
 ---
 
-<!-- 
-Neither embedded figure shortcode, nor Markdown hook were able to render image from asset. 
-You would have to .Resouces.GetMatch via custom shortcode.
-![Jane Doe](/images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) 
--->
-![Jane Doe](/images/static-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
-See DE language for more examples of image management. There are multiple approaches.
+**DJ Experience**
+![Boomtown 2025](/images/boomtown2025.jpg)
 
-##### Professional Experience
+I've been DJing for around half a decade, progressing through bedroom DJ, house parties, weddings, birthdays, all the way to playing at [**Boomtown**](https://www.boomtownfair.co.uk/) and Brighton's legendary [**Volks club**](https://volksclub.co.uk/).
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+**Technical music knowledge**
+![Music production](/images/ableton.jpg)
 
-----
+My DJing started as an accompaniment to producing music, which I've been doing for as long as I can remember. I started on 8 bit computers and sample trackers in the 80s and 90s, and I'm now using Acid and Ableton to produce DnB, rave and UK bass remixes and original tracks which you can [check out on my SoundCloud](https://soundcloud.com/robotduck) along with some of my DJ sets.
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+**Training and communcation**
+![Unite training](/images/unite-training-side-view.jpg)
+
+I've also had a long professional career of what could be summarised as "explaining stuff". I've been a technical writer, trainer, consultant and course designer in fields including game design, 3D modelling, programming, and even teaching kids to swim!
+
+This unusual combination of experience makes me an expert musical and technical communicator, allowing me to understand your needs, create learning goals, and ensure you get the most out of our sessions together.
+
+![DJ Consultation](/images/consultation.jpg)
+
+
