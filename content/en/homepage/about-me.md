@@ -7,7 +7,7 @@ header_menu: true
 **DJ Experience**
 ![Boomtown 2025](/images/boomtown2025.jpg)
 
-I've been DJing for around half a decade, progressing through bedroom DJ, house parties, weddings, birthdays, all the way to playing at [**Boomtown**](https://www.boomtownfair.co.uk/) and Brighton's legendary [**Volks club**](https://volksclub.co.uk/).
+I've been DJing for around half a decade, progressing through house parties, weddings, birthdays, all the way to playing at [**Boomtown**](https://www.boomtownfair.co.uk/) and Brighton's legendary [**Volks club**](https://volksclub.co.uk/).
 
 **Technical music knowledge**
 ![Music production](/images/ableton.jpg)
@@ -17,7 +17,7 @@ My DJing started as an accompaniment to producing music, which I've been doing f
 **Training and communication**
 ![Unite training](/images/unite-training-side-view.jpg)
 
-I've also had a long professional career of what could be summarised as "explaining stuff". I've been a technical writer, trainer, consultant and course designer in various fields including game design, 3D modelling, programming, and even teaching kids to swim!
+I've also had a long professional career of what could be summarised as "**explaining stuff**". I've been a technical writer, trainer, consultant and course designer for adults and young people in various other fields including game design, 3D modelling, programming, and even swimming.
 
 This unusual combination of experience makes me an expert musical and technical communicator, allowing me to understand your needs, create learning goals, and ensure you get the most out of our sessions together.
 

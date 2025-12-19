@@ -11,7 +11,7 @@ Rather than running through a pre-set curriculum, my unique style of tuition lea
 
 My method follows this pattern:
 
-  - **Constultation:**  
+  - **Consultation:**  
     A chat about your experience so far, the music you're interested in, and your goals for DJing. (Either online, or in-person as part of your intro session)
     
   - **Intro Session:**  
@@ -22,3 +22,8 @@ My method follows this pattern:
       
   - **Follow-up & Progression:**  
     We follow up on your progress and continue helping you on your path to DJing towards the technical knowledge, style, and ability you're aiming for!
+
+My course focuses on the industry standard Pioneer (AlphaTheta) DJ gear.
+
+Lessons are held in my Kemptown flat, which has a cosy fun vibe and lovely sea views. I have both the beginner-level DDJ-400 decks and the more professional XDJ-XZ, allowing you to both use what you are more familiar with at home and see how features change with the full size layout of more professional equipment.
+
