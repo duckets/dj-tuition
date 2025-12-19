@@ -28,16 +28,16 @@ My method follows this pattern:
 ### Testimonials and recommendations
 
 *"Absolutely brilliant ... a really excellent teacher"* - Amy
-{{< youtube yOv7Wp372UA >}}
+{{< youtube _39C9nZof04 >}}
 
 ---
 *"Super supportive and helpful"* - Adam
-{{< youtube 2U2X7w7HE6c >}}
+{{< youtube pCGKdc0A6bU >}}
 
 ---
 *"Very good at explaining things!"* - Imogen
 
-{{< youtube 8kdMHok7Vnk >}}
+{{< youtube XzpLC3is6Io >}}
 
 ---
 
