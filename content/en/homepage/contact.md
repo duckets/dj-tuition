@@ -1,9 +1,11 @@
 ---
 title: "Contact"
-weight: 5
+weight: 6
 header_menu: true
 ---
 
+Get in touch to chat about booking a lesson!
+
 {{<contact_list>}}
 
-Get in touch!
+
