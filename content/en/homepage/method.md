@@ -7,7 +7,7 @@ header_menu: true
 ---
 You may have noticed DJ courses online and in person have very similar content - covering the hardware, software, music selection and preparation, mixing, effects, beatmatching, phrasing, etc. But what's more important is *how* it's taught.
 
-DJing is evolving all the time, and many people new to it are not interested in aiming for the traditional goals of playing at clubs and weddings, etc. So rather than running through a pre-set curriculum, my style of tuition leans towards flexibility and creativity, laying out pathways but guided by you, going where you want to go and learning the things you want to learn.
+Rather than running through a pre-set curriculum, my lessons lean toward flexibility and creativity, laying out pathways but guided by you, going where you want to go and learning the things you want to learn.
 
 My method follows this pattern:
 

@@ -10,7 +10,7 @@ header_logo: "images/cdj-icon.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "BRIGHTON DJ TUITION"
-header_subheadline: "<b>One-To-One</b> Personalised DJ <b>Tuition</b> & <b>Coaching</b>"
+header_subheadline: "<b>One-To-One</b> Personalised DJ <b>Lessons</b> & <b>Coaching</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

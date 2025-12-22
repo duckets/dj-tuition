@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Ben Pitt - Brighton DJ Tuition"
+title = "Ben Pitt - Brighton DJ Tuition, Lessons and Coaching"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -41,7 +41,7 @@ enableEmoji = true
     title = "Ben Pitt - Brighton DJ Tuition"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "One-To-One Personalised DJ Tuition & Coaching"
+    description = "One-To-One Personalised DJ Tuition, Lessons & Coaching"
 
     # Show a menu of languages available
     language_menu = false
@@ -76,7 +76,7 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "brighton, dj, mixing, lessons, tuition, coaching, training"
 
     [[params.contacts]]
         label = "WhatsApp"
