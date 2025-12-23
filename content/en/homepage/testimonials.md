@@ -10,23 +10,34 @@ What's it like learning from me? Hear what some of my past students think in the
 
 {{< youtube QSFCW16GPD4 >}}
   
-  
+---
+
+Amy
 ![Amy](/images/testimonials/amy.jpg)
-*"Absolutely brilliant ... a really excellent teacher"* - Amy
-  
+*"Absolutely brilliant ... a really excellent teacher"*
+   
+---
 
+Laura
 ![Laura](/images/testimonials/laura.jpg)
-*"Flexible and patient"* - Laura
+*"Flexible and patient"*
   
+---
 
+Adam
 ![Adam](/images/testimonials/adam.jpg)
-*"Super supportive and helpful"* - Adam
+*"Super supportive and helpful"*
   
+---
 
+Imogen
 ![Imogen](/images/testimonials/immy.jpg)
-*"Very good at explaining things!"* - Imogen
+*"Very good at explaining things!"*
   
+---
 
+Siobhan
 ![Siobhan](/images/testimonials/siobhan.jpg)
-*"A quote from Siobhan"* - Siobhan
+*"A quote from Siobhan"*
+
 
