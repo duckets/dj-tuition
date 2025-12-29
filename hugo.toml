@@ -100,7 +100,7 @@ enableEmoji = true
     [[params.contacts]]
         label = "Instagram"
         value = "Instagram"
-        url = "https://instagram.com/ducklets"
+        url = "https://www.instagram.com/brightondjtuition"
         icon = "fa-brands fa-instagram"
 
     [[params.contacts]]
