@@ -4,8 +4,8 @@ weight: 5
 header_menu: true
 ---
 
-**Intro Session. 1 hour:** £40
-One hour intro session, we get started at wherever your current skill and experience takes you.
+**Intro Session. 90 mins:** £40
+Including a free half-hour consulation where we discuss your experience so far, the music you're interested in, and your goals for DJing. Then a full one hour intro session, where we get started and go wherever your current skill and experience takes you.
 
 **Individual progress sessions. 1 hour:** £40
 After your intro session, progress sessions are customized to suit you, including a written recap and learn-at-home suggestions after each session.
