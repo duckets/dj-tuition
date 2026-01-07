@@ -1,14 +1,17 @@
 ---
-title: "Special Flyer Discout!"
+title: "BRIGHTON DJ TUTION"
 ---
 
-This is a page about the services, which I offer.
+---
+![](/images/six-tuition-images.jpg)
 
-It carries a lot more detail than what I put on the homepage - I swear!
+## Special Flyer Discount: 25% off!
 
-You want to know what I can do for you?
+Thanks for scanning my flyer! You've earned a discounted intro session.
 
-Well, let me tell ya!
+You can get the **Intro Session** (90 mins) for the discounted price of **£30** instead of £40. Just mention you've earned the **flyer discount** when booking your intro session!
+
+## [Now visit the main site!](_index.md)
 
 ---
 
