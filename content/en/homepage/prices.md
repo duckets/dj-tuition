@@ -17,3 +17,6 @@ If you're interested in booking a set of lessons, discounts are available.
 **6 hours:** £200 (£33.33/h)  
 **8 hours:** £240 (£30/h)  
 
+**Gift Vouchers**
+
+Gift vouchers available, please get in touch to request them!
