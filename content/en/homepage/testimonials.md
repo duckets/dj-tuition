@@ -38,6 +38,6 @@ Imogen
 
 Siobhan
 ![Siobhan](/images/testimonials/siobhan.jpg)
-*"A quote from Siobhan"*
+*"Ben is a great teacher; very chill and friendly, and happy to let your curiosity lead the session. [...] it's really nice to be in a creative environment where there's no one "right" way to learn"*
 
 
