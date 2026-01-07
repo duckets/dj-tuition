@@ -11,6 +11,20 @@
 
  */
 
+
+/* Impact */
+@font-face {
+  font-family: 'Impact';
+  font-style: normal;
+  /*font-weight: 300;*/
+  font-display: swap;
+  src: url('../webfonts/impactreg.woff'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../webfonts/impactreg.woff') format('woff'), /* Modern Browsers */
+       url('../webfonts/impact.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+
 /* ==========================================================================
    1. Open Sans
    ========================================================================== */
