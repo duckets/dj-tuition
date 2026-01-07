@@ -3,11 +3,11 @@
     /* === Cover / Landing area === */
     --cover-text-color: #ffffff;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-    --highlight: #86c440;
+    --highlight: #b80159;
     --highlight-contrast: var(--cover-text-color);
     /*inverse colors used for :hover */
     --highlight-inverse: var(--cover-text-color);
-    --highlight-inverse-contrast: rgb(255, 0, 0);
+    --highlight-inverse-contrast: #b80159;
 
     /* visual guard around title and description, when the feature is enabled */
     --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
@@ -15,7 +15,7 @@
 
 
     /* === sticky top/left navigation menus === */
-    --sticky-menu-text-color: #9fd067;
+    --sticky-menu-text-color: #b80159;
 
 
     /* === Alternating content (post) sections  === */
@@ -27,7 +27,7 @@
     /* Dark section - text color */
     --section-dark-text-color: var(--section-light-bg-color);
     /* Dark section - background color */
-    --section-dark-bg-color: #b80135;
+    --section-dark-bg-color: #b80159;
 
     /* Light&Dark section >quote. Suppressive color, compared to 'Light section - text color'*/
     --section-uni-quote: grey;
