@@ -25,5 +25,5 @@ My method follows this pattern:
 
 My course focuses on the industry standard Pioneer (AlphaTheta) DJ gear.
 
-Lessons are held in my Kemptown flat, which has a cosy fun vibe and lovely sea views. I have both the beginner-level DDJ-400 decks and the more professional XDJ-XZ, allowing you to both use what you are more familiar with at home and see how features change with the full size layout of more professional equipment.
+Lessons are held in my Kemptown flat, which has a cosy fun vibe and lovely sea views. I have both the beginner-level DDJ-400 decks and the more professional XDJ-XZ, allowing you to both use what you might be more familiar with at home, and experience how features translate to the full size layout of professional level equipment.
 
