@@ -13,5 +13,12 @@ You can get the **Intro Session** (90 mins) for the discounted price of **£30**
 
 ## [Now visit the main site!](_index.md)
 
+<script>
+
+id = urlParams.get('id');
+console.log('Read URL ID Param: '+id);
+
+</script>
+
 ---
 
