@@ -15,7 +15,9 @@ You can get the **Intro Session** (90 mins) for the discounted price of **£30**
 
 <script>
 
-id = urlParams.get('id');
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const id = urlParams.get('id');
 console.log('Read URL ID Param: '+id);
 
 </script>

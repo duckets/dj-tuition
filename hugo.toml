@@ -17,7 +17,10 @@ title = "Ben Pitt - Brighton DJ Tuition, Lessons and Coaching"
 # enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
 
-unsafe = true;
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 
 # Theme-specific variables `.Site.Params.myParamName`
