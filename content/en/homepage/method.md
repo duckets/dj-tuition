@@ -1,5 +1,5 @@
 ---
-title: "DJ Tution - How does it work?"
+title: "DJ Tuition - How does it work?"
 header_menu_title: "Method"
 navigation_menu_title: "Method"
 weight: 4
