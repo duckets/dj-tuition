@@ -5,6 +5,8 @@ navigation_menu_title: "Testimonials"
 weight: 2
 header_menu: true
 ---
+Welcome! If you're looking for flexible, creative, friendly, personalised DJ lessons or coaching in Brighton, you've found it.
+
 
 What's it like learning from me? Hear what some of my past students think in their own words:
 
