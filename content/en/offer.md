@@ -1,6 +1,7 @@
 ---
 title: "BRIGHTON DJ TUTION"
 ---
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 Hello! Thanks for scanning my flyer or sticker!  
 
 **You've earned a 25% discount intro session.**
