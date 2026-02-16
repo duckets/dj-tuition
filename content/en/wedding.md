@@ -9,9 +9,9 @@ A bride or groom DJing at their own wedding can be an energetic, memorable, and 
 
 ![](/images/three-tuition-images-a.jpg)
 
-Whether you've had any music experience at all, or are an absolute beginner, I will lead you through a crash course learning everything you need to know to pull off a smooth set with some killer transitions and drops.
+Whether you've had previous music experience, or are an absolute beginner, I will lead you through a crash course learning everything you need to know to pull off a smooth set with some killer transitions and drops.
 
-You'll learn how to mix, how to add in effects, and I'll help you select songs, find remixes, and curate and rehearse your set list so that you'll feel confident on the day to wow your guests. 
+You'll learn how to mix, and I'll help you select songs, find remixes, and curate and rehearse your set list so that you'll feel confident on the day to wow your guests. 
 
 -------------------------
 
@@ -29,12 +29,12 @@ My recommendation for a good balance is to aim for between a fifteen to thirty m
 
 This package includes:
 
-- Ten hours of tuition, split into multiple two & one-hour sessions.
-- Help and advice on selecting and acquiring songs, including finding the best remixes and versions suitable for DJing
-- Curating your final playlist, helping you rehearse it, and providing feedback on your practice and progress between lessons  
-- Liasing with your wedding DJ to ensure the final performance goes smoothly (for example, with equipment compatibility, etc)
+- Ten hours for tuition, coaching and rehearsal, split into multiple two & one-hour sessions.
+- Help and advice on selecting and acquiring songs, including finding the best remixes and versions suitable for DJing.
+- Curating your final playlist, helping you rehearse it, and providing feedback on your practice and progress between lessons.
+- Liasing with your wedding DJ to ensure the final performance goes smoothly (for example, with equipment compatibility, etc).
 
-### **Cost: £500**
+### **Cost: £400**
 
 Please get in touch for further information, or if you have any questions about this package.
 
