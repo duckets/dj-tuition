@@ -12,13 +12,13 @@ Rather than running through a pre-set curriculum, my lessons lean toward flexibi
 My method follows this pattern:
 
   - **Consultation:**  
-    A half hour chat about your experience so far, the music you're interested in, and your goals for DJing. (Either online, or in-person before your first session)
+    A half hour chat about your experience so far, the music you're interested in, and your goals for DJing. (Either online, or at your first in-person session)
     
   - **First Session:**  
     A full hour getting started fast with some fun basics, or springboarding straight from your current skill level in some fun new directions.
       
   - **Setting Goals:**  
-    We decide some goals designed to boost your skills in the direction you want to take them, if you have your own equipment to practice on at home. If not, we can still set goals around watching, listening to, and learning from, aspirational DJ sets and techniques from DJs online. After each session I provide a summary of what we covered to help you remember and practice in your own time.
+    We decide some goals designed to boost your skills in the direction you want to take them, if you have your own equipment to practice on at home. If not, we can still set goals around watching, listening to, and learning from, aspirational DJ sets and techniques from DJs online.
       
   - **Follow-up & Progression:**  
     In subsequent sessions we follow up on your progress, advance to new areas that suit you, and continue on your path to DJing towards the technical knowledge, style, and ability you're aiming for!
