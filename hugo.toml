@@ -97,7 +97,7 @@ enableEmoji = true
         icon = "fa fa-envelope"
 
     [[params.contacts]]
-        label = "WhatsApp"
+        label = "Phone"
         value = "07925 682405"
         url = "tel:+44 7925 682405"
         icon = "fa fa-phone"
