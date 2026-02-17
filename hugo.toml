@@ -92,8 +92,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "email"
-        value = "ducklets@gmail.com"
-        url = "mailto:ducklets@gmail.com"
+        value = "ben@brightondjtuition.com"
+        url = "mailto:ben@brightondjtuition.com"
         icon = "fa fa-envelope"
 
     [[params.contacts]]
