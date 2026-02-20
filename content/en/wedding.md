@@ -1,5 +1,5 @@
 ---
-title: "BRIGHTON DJ TUTION"
+title: "BRIGHTON DJ TUITION"
 ---
 <script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 
