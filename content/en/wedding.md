@@ -11,7 +11,7 @@ You can learn to DJ in time for your wedding day! Create a unique, memorable and
 
 Whether you've had previous music experience, or are an absolute beginner, I will lead you through a crash course learning everything you need to know.
 
-You'll learn how to use the equipment, blend and mix tunes together, and I'll help you curate and rehearse your set, and make recommendations and set cautiously achievable goals so that you're confident and ready. This should be a part of the day you look forward to rather than worry about!
+You'll learn how to use the equipment to mix tunes together, using all the tricks of the trade that make it as easy as possible. I'll help you curate and rehearse your set, and make recommendations and set cautiously achievable goals so that you're confident and ready.
 
 -------------------------
 
@@ -26,25 +26,25 @@ What's it like learning from me? Hear what some of my past students think in the
 
 ### Wedding Package Details
 
-This flexible and customised package is designed to give you the skills to take control of the decks for a memorable moment during your wedding day. You'll want to keep it relatively short so you can get back to the party - we will aim for between a fifteen to thirty minute set, which could cover anywhere from six to twelve songs or so. 
+This flexible and customised package is designed to give you the skills to take control of the decks for a memorable moment during your wedding day.
 
-This package is based around you having a DJ arranged for your wedding who will bring the equipment. You can put me in touch with them, and we will negotiate together a short timeslot during the reception where you can bring your own songs and jump on their decks. This way your wedding DJ won't be surprised by an out-of-the-blue request on the day, and the equipment including decks, sound system, mixer, etc is all set up by a professional and ready to go.
+You'll want to keep your "set" relatively short so you can get back to the party - my reccomendation is to aim for between a fifteen to thirty minute set, with a ballpark figure of six to twelve songs in the playlist. 
+
+This package is based on you arranging a DJ for your wedding who will bring the equipment. You can put me in touch with them, and we will negotiate together a short timeslot during the reception where you can bring your own songs and jump on their decks. This way your wedding DJ won't be surprised by an out-of-the-blue request on the day, and the equipment including decks, sound system, mixer, etc is already set up by a professional and ready to go.
 
 ![](/images/three-tuition-images-a.jpg)
-
-Whether you've had previous music experience, or are an absolute beginner, I will lead you through a crash course learning everything you need to know to pull off a smooth set with some killer transitions and drops.
-
-You'll learn how to mix, and I'll help you select songs, find remixes, and curate and rehearse your set list so that you'll feel confident on the day to wow your guests. 
 
 -------------------------
 
 ### Pricing
 
-The pricing is split into a **"**base package**"** and optional **add-on sessions**.
+The pricing is split into a **base package** and optional **add-on sessions**.
 
-This is because there are many factors which affect how much tuition you might need, from your musical background, ear for rhythm, and ability to pick up techniques, to how much time you'll have to practice between lessons. That's why this package is split into a base price, which should suit most people, and optional add-on sessions which you may or may not need to to feel fully ready for the event.
+This is because there are many factors which affect how much tuition you might need, from your musical background, ear for rhythm, and ability to pick up techniques, to how much time you'll have to practice between lessons. The base package should suit most people with little-to no DJ experience, but an enthusiasm and ear for music.
 
 **The Base Package**
+
+The base package should suit most people with little-to no DJ experience, but an enthusiasm and ear for music.
 
 - Ten hours for tuition, coaching and rehearsal, usually split into multiple two-hour sessions.
 - Help and advice on selecting and acquiring songs, including finding the best remixes and versions suitable for DJing, and curating your final playlist.
@@ -53,12 +53,20 @@ This is because there are many factors which affect how much tuition you might n
 
 ### **Cost: £400**
 
-**The Add-on Sessions**
+**Add-on Sessions**
 
-Add-on sessions, which are only necessary if you do not feel ready by the end of the ten hours tuition, are charged at my standard rate of **£40/hour**. 
+Add-on sessions, which are only necessary if you do not feel ready by the end of the tuition included in the base package, are charged at my standard tuition rate of **£40/hour**. 
 
+-------------------------
 
-Please get in touch for further information, or if you have any questions about this package!
+### Get In Touch
 
+Please get in touch to book this package, or to discuss it further:
 
-## {{< icon name="hand-point-right" >}} &nbsp; [Back to the main site](_index.md)
+{{<contact_list>}}
+
+-------------------------
+
+For more testimonials, and more information about me and my tuition:
+
+{{< icon name="hand-point-right" >}} &nbsp; [Visit the main site](_index.md)
