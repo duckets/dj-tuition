@@ -11,7 +11,7 @@ You can learn to DJ in time for your wedding day! Create a unique, memorable and
 
 Whether you've had previous music experience, or are an absolute beginner, I will lead you through a crash course learning everything you need to know.
 
-You'll learn how to use the equipment, blend and mix tunes together, and I'll help you curate and rehearse your set so that you'll feel confident on the day.
+You'll learn how to use the equipment, blend and mix tunes together, and I'll help you curate and rehearse your set, and make recommendations and set cautiously achievable goals so that you're confident and ready. This should be a part of the day you look forward to rather than worry about!
 
 -------------------------
 
@@ -32,29 +32,33 @@ This package is based around you having a DJ arranged for your wedding who will 
 
 ![](/images/three-tuition-images-a.jpg)
 
+Whether you've had previous music experience, or are an absolute beginner, I will lead you through a crash course learning everything you need to know to pull off a smooth set with some killer transitions and drops.
+
+You'll learn how to mix, and I'll help you select songs, find remixes, and curate and rehearse your set list so that you'll feel confident on the day to wow your guests. 
+
 -------------------------
 
 ### Pricing
 
-This package includes:
+The pricing is split into a **"**base package**"** and optional **add-on sessions**.
 
-- Ten hours for tuition, coaching and rehearsal, split into multiple two & one-hour sessions.
-- Help and advice on selecting and acquiring songs, including finding the best remixes and versions suitable for DJing.
-- Curating your final playlist, helping you rehearse it, and providing feedback on your practice and progress between lessons.
-- Liasing with your wedding DJ to ensure the final performance goes smoothly (for example, understanding the equipment they'll bring, etc).
+This is because there are many factors which affect how much tuition you might need, from your musical background, ear for rhythm, and ability to pick up techniques, to how much time you'll have to practice between lessons. That's why this package is split into a base price, which should suit most people, and optional add-on sessions which you may or may not need to to feel fully ready for the event.
+
+**The Base Package**
+
+- Ten hours for tuition, coaching and rehearsal, usually split into multiple two-hour sessions.
+- Help and advice on selecting and acquiring songs, including finding the best remixes and versions suitable for DJing, and curating your final playlist.
+- Deciding which goals are achievable in the time frame, helping you rehearse it, and providing feedback on your practice and progress between lessons.
+- Liasing with your wedding DJ to ensure the final performance goes smoothly (for example, discussing equipment, compatibility and timing, etc).
 
 ### **Cost: £400**
 
--------------------------
+**The Add-on Sessions**
 
-### Get In Touch
+Add-on sessions, which are only necessary if you do not feel ready by the end of the ten hours tuition, are charged at my standard rate of **£40/hour**. 
 
-Please get in touch to book this package, or to discuss it further:
 
-{{<contact_list>}}
+Please get in touch for further information, or if you have any questions about this package!
 
--------------------------
 
-For more testimonials, and more information about me and my tuition:
-
-{{< icon name="hand-point-right" >}} &nbsp; [Visit the main site](_index.md)
+## {{< icon name="hand-point-right" >}} &nbsp; [Back to the main site](_index.md)
