@@ -7,7 +7,7 @@ header_menu: true
 **DJ Experience**
 ![Boomtown 2025](/images/boomtown2025.jpg)
 
-Hi, I'm Ben. I've been DJing for around half a decade, progressing through house parties, weddings, birthdays, all the way to playing at [**Boomtown**](https://www.boomtownfair.co.uk/) and Brighton's legendary [**Volks club**](https://volksclub.co.uk/).
+Hi, I'm Ben. I've been DJing for around half a decade, progressing through house parties, weddings, birthdays, all the way to playing at [**Boomtown**](https://www.boomtownfair.co.uk/) and Brighton's legendary [Concorde 2](https://www.concorde2.co.uk/) and [**Volks**](https://volksclub.co.uk/) nightclubs.
 
 **Technical music knowledge**
 ![Music production](/images/ableton.jpg)
