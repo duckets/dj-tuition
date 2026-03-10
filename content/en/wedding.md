@@ -3,15 +3,32 @@ title: "BRIGHTON DJ TUITION"
 ---
 <script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 
-### LEARN TO DJ FOR YOUR WEDDING DAY
+### Learn to DJ for your Wedding Day
 
-You can learn to DJ in time for your wedding day! Create a unique, memorable and personalized highlight at your reception by taking control of the decks - especially if it's a surprise to your family and friends on the day!
+-------------------------
+
+**_Imagine stepping up to the decks as your wedding MC anncounces a surprise guest DJ. You step up and drop your first track. Your closest friends and family cheer as you mix and match your way through your set - it becomes one of the most talked-about moments of the whole day._**
+
+You can learn to DJ for your wedding day! Create a unique, memorable and personalized highlight at your reception by taking control of the decks - especially if it's a surprise to your family and friends on the day!
 
 ![](/images/three-tuition-images-b.jpg)
 
 Whether you've had previous music experience, or are an absolute beginner, I will lead you through a crash course learning everything you need to know.
 
 You'll learn how to use the equipment to mix tunes together, using all the tricks of the trade that make it as easy as possible. I'll help you curate and rehearse your set, and make recommendations and set cautiously achievable goals so that you're confident and ready.
+
+-------------------------
+
+### Perfect for Wdding Planners
+
+- Give couples a fresh experiential add-on to your packages - a personalised DJ performance they’ll always remember.
+- We coordinate with your couple's booked DJ
+- We rehearse ahead of time, so no surprises
+- Recommended time window: 15-30 minutes during the reception
+
+The goal of this package is to produce a specific contained moment which does not replace the professional DJ. It adds a personal storytelling moment and creates an emotional impact.
+
+The goal is not for the bride or groom to be DJing all night, or to more broadly learn to DJ in a wider sense. It is focused on creating, rehearsing, and perfecting a single choreographed performance, using all the tricks of the trade which make this as easy as possible for a beginner to sound professional, and to minimise logistical risk.
 
 -------------------------
 
@@ -28,9 +45,9 @@ What's it like learning from me? Hear what some of my past students think in the
 
 This flexible and customised package is designed to give you the skills to take control of the decks for a memorable moment during your wedding day.
 
-You'll want to keep your "set" relatively short so you can get back to the party - my reccomendation is to aim for between a fifteen to thirty minute set, with a ballpark figure of six to twelve songs in the playlist. 
+You'll want to keep your "set" relatively short so you can get back to the party - my recomendation is to aim for around six to twelve songs in the playlist.
 
-This package is based on you arranging a DJ for your wedding who will bring the equipment. You can put me in touch with them, and we will negotiate together a short timeslot during the reception where you can bring your own songs and jump on their decks. This way your wedding DJ won't be surprised by an out-of-the-blue request on the day, and the equipment including decks, sound system, mixer, etc is already set up by a professional and ready to go.
+This package is based on you having a professional DJ booked for your wedding whose equipment you will use. We will negotiate together a short timeslot during the reception where you can bring your own songs and jump on their decks. This way your wedding DJ won't be surprised by an out-of-the-blue request on the day, and the equipment including decks, sound system, mixer, etc is already set up by a professional and ready to go.
 
 ![](/images/three-tuition-images-a.jpg)
 
@@ -40,7 +57,7 @@ This package is based on you arranging a DJ for your wedding who will bring the 
 
 The pricing is split into a **base package** and optional **add-on sessions**.
 
-This is because there are many factors which affect how much tuition you might need, from your musical background, ear for rhythm, and ability to pick up techniques, to how much time you'll have to practice between lessons. The base package should suit most people with little-to no DJ experience, but an enthusiasm and ear for music.
+This is because there are many factors which affect how much tuition you might need, from your musical background, ear for rhythm, and ability to pick up techniques, to how much time you'll have to practice between lessons. The base package should suit most people with little-to no DJ experience, but with an enthusiasm and ear for music.
 
 **The Base Package**
 
