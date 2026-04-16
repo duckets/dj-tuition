@@ -8,7 +8,7 @@ header_menu: true
 Including a free half-hour consulation where we discuss your experience so far, the music you're interested in, and your goals for DJing. Then a full one hour tuition session, where we get started and go wherever your current skill and experience takes you.
 
 **Individual progress sessions:** (1 or 2 hours) **£40/hour** 
-After your intro session, progress sessions are customized to suit you, including a written recap and learn-at-home suggestions after each session. You can choose to book one-hour or two-hour sessions.
+After your intro session, progress sessions are customized to suit you. You can choose to book one-hour or two-hour progress sessions.
 
 **Bundle prices**
 If you're interested in booking a set of lessons, discounts are available.
