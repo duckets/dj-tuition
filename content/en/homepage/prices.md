@@ -41,6 +41,8 @@ If you're interested in booking a set of lessons, discounts are available.
 **6 hours:** £200 (£33.33/h)  
 **8 hours:** £240 (£30/h)  
 
+Please [**get in touch**](#contact) to purchase a discount bundle.
+
 #### Terms of booking
 
 By booking a session with Brighton DJ Tuition, you agree to our [terms and conditions](terms.md).

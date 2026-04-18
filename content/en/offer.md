@@ -35,9 +35,9 @@ document.write('<h3>25'+refType+'</h3>');
 
 </script>
   
-Please note down your offer code, then visit the main site to find out more:
+Please note down your offer code, then:
 
-## {{< icon name="hand-point-right" >}} &nbsp; [Visit the main site!](_index.md)
+## {{< icon name="hand-point-right" >}} &nbsp; [Find out more](_index.md), or [book now!](https://calendly.com/brightondjtuition)
 
 ![](/images/three-tuition-images-b.jpg)
 

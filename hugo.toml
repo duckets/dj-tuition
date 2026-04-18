@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Ben Pitt - Brighton DJ Tuition, Lessons and Coaching"
+title = "Brighton DJ Tuition, Lessons and Coaching"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -44,7 +44,7 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Ben Pitt - Brighton DJ Tuition"
+    title = "Brighton DJ Tuition"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "One-To-One Personalised DJ Tuition, Lessons & Coaching"
@@ -58,11 +58,11 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Ben Pitt"
+    copyright = "© Brighton DJ Tuition."
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
-    hidedesignbyline = false
+    hidedesignbyline = true
 
     # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
     invertSectionColors = false
@@ -101,7 +101,6 @@ enableEmoji = true
         value = "07925 682405"
         url = "tel:+44 7925 682405"
         icon = "fa fa-phone"
-
 
     [[params.contacts]]
         label = "Instagram"
