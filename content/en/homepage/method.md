@@ -25,5 +25,5 @@ My method follows this pattern:
 
 My course focuses on the industry standard **Pioneer** DJ gear. *(now known as [AlphaTheta](https://alphatheta.com/en/information/alphatheta-corporation-parent-company-change/))*
 
-Lessons are held in my Kemptown flat, which has a cosy fun vibe and lovely sea views. I have both the beginner-level DDJ-400 decks and the more professional XDJ-XZ, allowing you to both use what you might be more familiar with at home, and experience how features translate to the full size layout of professional level equipment.
+Lessons are held in my Kemptown flat in Brighton, near the Royal Sussex County Hospital, which has a cosy fun vibe and lovely sea views (Full address supplied on booking a session). I have both the beginner-level DDJ-400 decks and the more professional XDJ-XZ, allowing you to use what you might be more familiar with at home, as well as experience how features translate to the full size layout of professional level equipment.
 
