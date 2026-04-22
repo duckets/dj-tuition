@@ -37,7 +37,7 @@ After your intro session, progress sessions are customized to suit you. You can 
 #### **Bundle prices**
 If you're interested in booking a set of lessons, discounts are available.
 
-**4 hours:** £120 (£35/h)  
+**4 hours:** £140 (£35/h)  
 **6 hours:** £200 (£33.33/h)  
 **8 hours:** £240 (£30/h)  
 
