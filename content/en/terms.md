@@ -77,3 +77,4 @@ Fees paid will not be refunded.
 
 It is important to note that whilst a Tutor will use his or her best endeavours to ensure You make satisfactory progress, this cannot be guaranteed. Careful regular practice as advised by the Tutor is a prerequisite of success in any musical endeavour.
 
+{{< icon name="hand-point-right" >}} &nbsp; [Back to the main site](_index.md)
