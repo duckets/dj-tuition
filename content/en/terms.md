@@ -69,6 +69,8 @@ be shared with third parties or uploaded to social media (this includes videos a
 the Tutor. In this instance, the Tutor reserves the right to withdraw entirely from this Agreement with immediate effect.
 Fees paid will not be refunded.
 
+5.5 If you are under 18, you must be accompanied by a parent or legal guardian during the session.
+
 #### 6. Accessibility
 
 6.1 Access to The Tutor's premises is up several flights of stairs, some with no bannister. This may make accessibility difficult for some people with mobility issues. If You are concerned about being able to access the premises, you must get in touch before booking a session to discuss alternative arrangements, such as the Tutor visiting your premises instead.
