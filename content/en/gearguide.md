@@ -36,13 +36,13 @@ These are the most affordable way in, and the best choice if you're not yet sure
 
 These sit between controllers and full pro gear. They run everything on the device itself (from USB drives, streaming, or cloud sync), while borrowing the touchscreen/jog wheel feel of real club equipment. Good for someone who's outgrown a controller and wants club-realistic practice, without paying full CDJ+mixer prices.
 
-**XDJ-AN**: \~£999-1,050 *(new model, released 2026\)* A compact, lightweight 2-channel standalone unit built specifically as a stepping-stone between a home controller and a club booth. Its layout is modelled on the CDJ/DJM workflow. Streams from Apple Music/TIDAL/Beatport and syncs with rekordbox cloud libraries. Smaller screen and jog wheels than the pricier units below, and Wi-Fi only (no wired network features), but it's the cheapest genuinely "club-mapped" standalone option.
-
 **XDJ-RX3**: \~£2,150-2,300 A 2-channel standalone system with a large 10.1" touchscreen and effects borrowed from club-standard gear. Very popular for home setups, mobile DJs, and livestreaming, since you don't need a laptop at all. Downside: only 2 channels, and it lacks the newer AZ's streaming/Wi-Fi extras.
 
 **XDJ-XZ**: \~£2,600+ (older model, being phased out) A previous-generation 4-channel standalone unit. Still capable and sometimes available at a discount, but technologically behind the newer AZ (smaller screen, no streaming, no Bluetooth). Worth considering only if you find a good used/clearance price.
 
 **XDJ-AZ**: \~£3,150 *(new flagship, replaces the XDJ-XZ)* A genuine 4-channel standalone system that borrows heavily from the CDJ-3000/DJM-A9 pro gear, with a big touchscreen, full-size jog wheels, streaming, Wi-Fi, wireless headphone support. This is about as close as you can get to a "real club setup" without buying separate players and a mixer, and it's priced accordingly.
+
+**XDJ-AN**: \~£999-1,050 *(new model, released 2026\)* A compact, lightweight 2-channel standalone unit built specifically as a stepping-stone between a home controller and a club booth. Its layout is modelled on the CDJ/DJM workflow. Streams from Apple Music/TIDAL/Beatport and syncs with rekordbox cloud libraries. Smaller screen and jog wheels than the pricier units below, and Wi-Fi only (no wired network features). It's the cheapest genuinely "club-mapped" standalone option, but the reason they were able to make it cheaper is that a lot of the features found as physical buttons or knobs on older systems are moved to the touchscreen on this model, so if you learn on this, you'll have less transferrable "muscle memory" to the other older units where these features are physical controls, and vice-versa.
 
 **Overall:** all-in-ones are a strong pick for someone with a real budget who wants the club-standard feel and standalone convenience (no laptop, easy for mobile/wedding-style DJs), without the expense and extra footprint of separate players and a mixer.
 
