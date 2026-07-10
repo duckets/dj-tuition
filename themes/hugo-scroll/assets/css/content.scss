@@ -265,10 +265,10 @@ table {
         }
     }
 
-    tbody>tr:nth-child(even) {
+    /** tbody>tr:nth-child(even) {
         background-color: #fff5;
         background-blend-mode: lighten;
-    }
+    }**/
 
     &.plain tbody>tr:nth-child(odd)>td,
     &.plain tbody>tr:nth-child(odd)>th {
