@@ -22,7 +22,7 @@ These are the most affordable way in, and the best choice if you're not yet sure
 
 **DDJ-FLX4**: \~£299 A compact 2-channel unit with a simple, uncluttered layout. The successor to the DDJ-400. Great if you just want to learn the basics without being overwhelmed by buttons. Downside: only 2 channels and a smaller feature set, so you'll likely outgrow it if you get serious.
 
-**DDJ-FLX6**: \~£649 A 4-channel step up with a club-style layout that closely mirrors a real CDJ/mixer setup, so skills transfer well later. Comes with genuinely useful beginner-friendly features (Merge FX, Jog Cutter) as well as headroom to grow into. A great "buy once" option if you're fairly confident you'll stick with DJing.
+**DDJ-FLX6**: \~£649 A 4-channel step up with a club-style layout that closely mirrors a real CDJ/mixer setup, so skills transfer well later. Comes with some of the latest pioneer features (Merge FX, Jog Cutter). A great "buy once" option if you're fairly confident you'll stick with DJing.
 
 **DDJ-1000**: \~£1,050-1,100 An older but still-respected 4-channel unit built specifically to feel like club gear (full-size jog wheels, proper mixer layout). More expensive and arguably being overtaken by the FLX6/FLX10, but still solid if found at a discount.
 
