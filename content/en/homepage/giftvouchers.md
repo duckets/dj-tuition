@@ -3,8 +3,6 @@ title: "Gift Vouchers"
 weight: 7
 header_menu: true
 ---
-Gift vouchers are available, and make a great present as a surprising and unique experience, suitable for all ages and genders. Who knows, you might be the one to spark someone's new favourite interest!
+DJ lessons are a great gift, as a surprising and unique new experience suitable for all ages and genders.
 
-Gift vouchers are available in multiples of 2 hours, and are the same price as lessons as stated above.
-
-## {{< icon name="hand-point-right" >}} [**BUY A GIFT VOUCHER**](giftvouchers)
+## {{< icon name="hand-point-right" >}} [**BUY GIFT VOUCHERS**](giftvouchers)

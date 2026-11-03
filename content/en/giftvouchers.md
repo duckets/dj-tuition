@@ -1,9 +1,9 @@
 ---
 title: "Gift Vouchers"
 ---
-
-Gift vouchers are available, and make a great present as a surprising and unique experience, suitable for all ages and genders. Who knows, you might be the one to spark someone's new favourite interest!
-
+<br/>
+<br/>
+<br/>
 <div class="gift-up-target" data-site-id="73c34e32-3bdb-411f-8c6a-d29a99e95c87" data-platform="Other" data-language="en-GB"></div>
 <script type="text/javascript">
 (function (g, i, f, t, u, p, s) {
