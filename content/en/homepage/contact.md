@@ -4,7 +4,9 @@ weight: 8
 header_menu: true
 ---
 
-Get in touch if there's anything else you'd like to discuss before booking your lesson, or to request bundle discounts or gift vouchers.
+Get in touch if there's anything else you'd like to discuss before booking your lesson, or for any further questions or information about Brighton DJ Tuition.
+
+(For fastest responses, send me a WhatsApp text!)
 
 {{<contact_list>}}
 
