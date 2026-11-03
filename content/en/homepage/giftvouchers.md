@@ -3,9 +3,9 @@ title: "Gift Vouchers"
 weight: 7
 header_menu: true
 ---
-### Thinking about treating someone you love to some DJ lessions?
+### Thinking about treating someone you love to some DJ lessons?
 
-Great idea, they'll love it! Gifting someone some DJ lessions gives them a surprising and unique new experience, and is suitable for all ages, genders, and abilities.
+Great idea, they'll love it! Gifting someone DJ lessons gives them a surprising and unique new experience, and is suitable for all ages, genders, and abilities.
 
 Each gift card is valid for one hour, or 90 minutes when used as a first session for a new student. Each card has a unique code and each session can be booked independently at a later date by your recipient by using the codes on each card.
 
