@@ -1,5 +1,5 @@
 ---
-title: "Gift Vouchers"
+title: "Buy Gift Vouchers"
 ---
 <br/>
 <br/>
