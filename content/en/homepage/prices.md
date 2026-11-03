@@ -10,7 +10,7 @@ Including a free half-hour consulation where we discuss your experience so far, 
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/brightondjtuition/intro'});return false;"><b>Book an Intro Session now</b></a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/brightondjtuition/progress-session-1hr'});return false;"><b>Book an Intro Session now</b></a>
 <!-- Calendly link widget end -->
 <br/>
 <br/>
@@ -32,16 +32,6 @@ After your intro session, progress sessions are customized to suit you. You can 
 
 <br/>
 <br/>
-
-
-#### **Bundle prices**
-If you're interested in booking a set of lessons, discounts are available.
-
-**4 hours:** £140 (£35/h)  
-**6 hours:** £200 (£33.33/h)  
-**8 hours:** £240 (£30/h)  
-
-Please [**get in touch**](#contact) to purchase a discount bundle.
 
 #### Terms of booking
 
