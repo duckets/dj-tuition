@@ -7,24 +7,34 @@ title: "BRIGHTON DJ TUITION"
 
 -------------------------
 
-**_Imagine stepping up to the decks as your wedding MC announces a surprise guest DJ. You step up and drop your first track. Your closest friends and family cheer as you mix and match your way through your set - it becomes one of the most talked-about moments of the whole day._**
+**_Imagine stepping up to the decks as your wedding MC announces a special guest DJ. Surprise, it's the bride! (Or groom!) You step up and drop your first track. Your friends and family cheer in amazement as you mix banger after banger - it becomes one of the most talked-about moments of the whole day._**
 
-You can learn to DJ for your wedding day! Create a unique, memorable and personalized highlight at your reception by taking control of the decks - especially if it's a surprise to your family and friends on the day!
+Yes, you can learn to DJ for your wedding day! Create a unique, memorable and personalized highlight at your reception by taking control of the decks - especially if it's a surprise to your family and friends on the day!
 
 ![](/images/three-tuition-images-b.jpg)
 
-Whether you've had previous music experience, or are an absolute beginner, I will lead you through a crash course learning everything you need to know.
+#### And it's easier than you think. 
+
+Whether you've had previous music experience, or are an absolute beginner, I can lead you through a crash course learning everything you need to know. I've taught dozens of complete beginners and have a five-star google rating.
 
 You'll learn how to use the equipment to mix tunes together, using all the tricks of the trade that make it as easy as possible. I'll help you curate and rehearse your set, and make recommendations and set cautiously achievable goals so that you're confident and ready.
 
+
+ <div class="embedsocial-hashtag" data-ref="d27d17f84e2f56d8b517b10f54ab25ee3c3ab12c"> <a class="feed-powered-by-es feed-powered-by-es-feed-img es-widget-branding" href="https://embedsocial.com/google-reviews-widget/" target="_blank" title="Embed Google reviews" > <img src="https://embedsocial.com/cdn/icon/embedsocial-logo.webp" alt="EmbedSocial"> <div class="es-widget-branding-text">Embed Google reviews</div> </a> </div> <script> (function(d, s, id) { var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialHashtagScript")); </script> 
+
+
+
+
 -------------------------
 
-### Perfect for Wedding Planners
+#### Perfect for Wedding Planners
 
 - Give couples a fresh experiential add-on to your packages - a personalised DJ performance they’ll always remember.
 - We coordinate with your couple's booked DJ
 - We rehearse ahead of time, so no surprises
 - Recommended time window: 15-30 minutes during the reception
+
+#### A short, simple, choreographed performance
 
 The goal of this package is to produce a specific contained moment which does not replace the professional DJ. It adds a personal storytelling moment and creates an emotional impact.
 
@@ -32,7 +42,7 @@ The goal is not for the bride or groom to be DJing all night, or to more broadly
 
 -------------------------
 
-### Testimonials
+#### Testimonials
 
 What's it like learning from me? Hear what some of my past students think in their own words:
 
@@ -53,7 +63,7 @@ This package is based on you having a professional DJ booked for your wedding wh
 
 -------------------------
 
-### Pricing
+#### Pricing
 
 The pricing is split into a **base package** and optional **add-on sessions**.
 
@@ -68,22 +78,32 @@ The base package should suit most people with little-to-no DJ experience, but an
 - Deciding which goals are achievable in the time frame, helping you rehearse it, and providing feedback on your practice and progress between lessons.
 - Liaising with your wedding DJ to ensure the final performance goes smoothly (for example, discussing equipment, compatibility and timing, etc).
 
-### **Cost: £400**
+### **Cost: £500**
+<br/>
 
-**Add-on Sessions**
+#### Add-on Sessions
 
 Add-on sessions, which are only necessary if you do not feel ready by the end of the tuition included in the base package, are charged at my standard tuition rate of **£40/hour**. 
+
+#### Risk-free : you can change your mind
+
+While I'm confident that I can teach almost anyone to DJ a pre-chosen set of songs, I appreciate that sometimes you may just want to change your mind.
+
+So if, any time after your first two hours of tuition, you change your mind, any unused hours from the included 10 hours can be refunded at my standard tuition rate of £40/hour. For example if you change your mind after 2 hours of tuition, you would get back the remaining 8 hours at £40, which equals £320 returned to you.
 
 -------------------------
 
 ### Get In Touch
 
 Please get in touch to book this package, or to discuss it further:
+(For fastest responses, send me a WhatsApp text!)
 
 {{<contact_list>}}
 
+*Note: I am often unable to answer unexpected phone calls. If you'd like to chat on the phone, please text/WhatsApp me first to arrange a time for a call!*
+
 -------------------------
 
-For more testimonials, and more information about me and my tuition:
+For more information about me and my tuition:
 
 {{< icon name="hand-point-right" >}} &nbsp; [Visit the main site](_index.md)
