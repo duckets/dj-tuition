@@ -35,9 +35,10 @@ document.write('<h3>25'+refType+'</h3>');
 
 </script>
   
-Please note down your offer code, then:
+Please note down your offer code, then book using this link:
+[BrightonDJtuition/intro](https://calendly.com/brightondjtuition/intro)
 
-## {{< icon name="hand-point-right" >}} &nbsp; [Find out more](_index.md), or [book now!](https://calendly.com/brightondjtuition)
+If you'd like to read more about Brighton DJ Tuition before booking, you can [find out more on the main site here](_index.md), but remember you need to use the special link and discount code above to receive your discount!
 
 ![](/images/three-tuition-images-b.jpg)
 
